@@ -1,3 +1,3 @@
 Hi, I’m Sergio
  
-Junior Software Developer | Seeking Entry-Level Programming Position | Experience with SQL, JavaScript and React
+At present I am seeking Entry-Level Programming Position | I have Experience with SQL, JavaScript and React.
