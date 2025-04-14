@@ -1,3 +1,5 @@
-Hi, I’m Sergio
+Hi, I’m Sergio...
  
-At present I am seeking Entry-Level Programming Position | I have Experience with SQL, JavaScript and React.
+I am currently experimenting with a self-built NAS for version control. My GitHub activity may be lower as I focus on this local development environment. This is for my own technical learning.
+
+¡Saludos!
